@@ -1,0 +1,27 @@
+{
+  "name": "tierion-api",
+  "version": "0.0.1",
+  "description": "An API wrapper for the Tierion APIs",
+  "main": "lib/tierion-api.js",
+  "scripts": {
+    "test": "tap ./**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/tierion-api.git"
+  },
+  "keywords": [
+    "tierion",
+    "api",
+    "blockchain",
+    "wrapper",
+    "bit",
+    "bitcoin"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/tierion-api/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/tierion-api#readme"
+}
